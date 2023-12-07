@@ -57,7 +57,7 @@ def select_random_activities(existing_data, selected_categories, selected_counts
         return None
 
 def main():
-    filename = r"C:\Users\robert\Desktop\code\activities.json"
+    filename = r"pathtojson\activities.json"
     existing_data = load_existing_data(filename)
 
     if existing_data:
