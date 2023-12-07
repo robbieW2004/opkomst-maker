@@ -49,7 +49,7 @@ def save_to_json(data, filename):
     print(f"Activity details saved to {filename}.")
 
 def main():
-    filename = "C:\\Users\\robert\\Desktop\\code\\activities.json"
+    filename = "pathtojson\\activities.json"
     existing_data = load_existing_data(filename)
 
     while True:
