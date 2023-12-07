@@ -1,0 +1,102 @@
+[
+  {
+    "category": "tikkertjes",
+    "activities": [
+      {
+        "name": "zombie_tikkertje",
+        "time": "10",
+        "description": "als je getikt wordt ben je ook de tikker, totdat er niemand meer over is."
+      },
+      {
+        "name": "knakworst_tikkertje",
+        "time": "20",
+        "description": "als je getikt wordt doe je je armen wijd, 2 bevers moeten je armen knakken en je bent weer vrij."
+      },
+      {
+        "name": "samenwerk_tikkertje",
+        "time": "15",
+        "description": "het zelfde als knakworst tikkertje, maar je moet door 2 man tegelijkertijd geknakt worden."
+      },
+      {
+        "name": "slingertikkertje",
+        "time": "15",
+        "description": "als je getikt wordt wordt je een slinger. bij 4 man gaat de slinger door midden."
+      }
+    ]
+  },
+  {
+    "category": "knutselen",
+    "activities": [
+      {
+        "name": "bambox",
+        "time": "40",
+        "description": "knutsel met de bambox een zo hoog mogelijke toren."
+      }
+    ]
+  },
+  {
+    "category": "overige_spellen",
+    "activities": [
+      {
+        "name": "hollandse_leeuwen",
+        "time": "20",
+        "description": "hollandse leeuwen"
+      },
+      {
+        "name": "trefbal",
+        "time": "20",
+        "description": "trefbal"
+      },
+      {
+        "name": "dwijlhockey",
+        "time": "20",
+        "description": "dwijlhockey 2 banken als doelen"
+      },
+      {
+        "name": "beverburcht",
+        "time": "20",
+        "description": "nader te bepalen"
+      },
+      {
+        "name": "knijperspel",
+        "time": "15",
+        "description": "plaats zo veel mogelijk knijpers bij andere bevers"
+      },
+      {
+        "name": "handelspel",
+        "time": "20",
+        "description": "eigenlijk smokkelspel"
+      },
+      {
+        "name": "professor plof hoe laat is het",
+        "time": "15",
+        "description": "professor ploef hoe laat is het"
+      },
+      {
+        "name": "geiten voetbal",
+        "time": "25",
+        "description": "kinderen zitten vast aan touw aan een haring in de grond, en dan voetballen"
+      },
+      {
+        "name": "vieze muur lekkere muur",
+        "time": "15",
+        "description": "een muur is vies een is lekker, leiding geeft eten of niet eten, de kinderen rennen naar bijbehoorende muur"
+      },
+      {
+        "name": "boompje verwisselen",
+        "time": "20",
+        "description": "hoepels neerleggen 1 minder dan deelnemers, verwissel van hoepel zonder dat je hoepel wordt ingenomen"
+      },
+      {
+        "name": "reactiebal",
+        "time": "10",
+        "description": "bevers in een kring handen achter rug, doen alsof bal gooien. als ze reageren zijn ze af."
+      },
+      {
+        "name": "minder benen spel",
+        "time": "15",
+        "description": "als groep naar de overkant steeds minder benen."
+      }
+    ]
+  }
+]
